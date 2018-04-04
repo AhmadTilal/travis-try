@@ -13,9 +13,4 @@ script:
 notifications:
     slack: cs360-2018:gp8DSNnLlVlCLX5vw27pk11s
     
-deploy:
-  provider: heroku
-  api_key:
-    secure: "20b89953-91a7-4278-a4a7-6987d0d15cd9"
-  app: ahmadtilal
 
