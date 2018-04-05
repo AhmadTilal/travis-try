@@ -9,6 +9,7 @@ python:
 script: 
 
   - python hello.py
+  - python testing.py
   
 notifications:
     slack: cs360-2018:gp8DSNnLlVlCLX5vw27pk11s
